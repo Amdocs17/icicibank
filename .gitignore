@@ -1,0 +1,7 @@
+#this all file we dont want to commit
+.deep
+.class
+.gitigmore
+.project
+Demo/
+
